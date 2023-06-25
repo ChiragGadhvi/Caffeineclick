@@ -1,4 +1,4 @@
-# caffeineclick
+# CaffeineClick
 
 A new Flutter project.
 
